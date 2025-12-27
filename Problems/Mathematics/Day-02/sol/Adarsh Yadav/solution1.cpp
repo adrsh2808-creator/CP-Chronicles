@@ -1,5 +1,5 @@
 //https://codeforces.com/contest/1771/submission/355283451
-//TC : O(n)
+//TC : O(nlogn + n)
 
 #include <bits/stdc++.h>
 using namespace std;
